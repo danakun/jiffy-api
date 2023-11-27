@@ -2,6 +2,7 @@
 # Jiffy - GIF Searcher
 
 Jiffy is a simple GIF searcher that uses the Giphy API. This project demonstrates various front-end techniques, including flexbox layout, CSS grid, working with APIs, and event handling.
+https://danakun.github.io/jiffy-api/
 
 ## Features
 
